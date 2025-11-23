@@ -1,17 +1,30 @@
-New Features & Improvements
+🔆 New Features
 
-* Battery share has Settings page now inspired from Pixel 
-* August security patch
-* Fixed battery health settings incorrectly appearing
-* Fixed lockscreen shortcut settings crash
-* Fixed some minor issues with Bluetooth 
-* Fixed an occasional gms crash
-* Fixed Security and privacy page UI
-* Now passes strong integrity by default (atleast for now )
-* Enabled Bluetooth auto turn on toggle 
-* Enabled some pixel 8+ features on google photos
-* Improved LTE/5G statusbar icon design
-* Improved biometrics prompt layout
-* Fixed some memory management issues (basically improved overall performance)
-* Fixed google settings backup
-* Fixed Google incorrectly detecting device as Pixel 8
+* Long press lockscreen to customise
+* Double tap lockscreen to turn off 
+* Photo picker shows google photos albums
+* Wallpaper Live effects and styles
+* Cloned apps
+* Flashlight strength customisation
+* Hotspot : hidden ssid
+* Hotspot : client manager
+* Hotspot : allow vpn streams
+
+📱 Device changelog:
+
+* Fixed video recording in  NOS Cam
+* Kernel: merged latest qcom tags
+* Glyph: Flip ringer mode customisation 
+* Glyph: sync glyph with custom ringtone
+* Glyph: shake to toggle torch
+* Glyph: schedule
+* Glyph: custom pattern composer
+
+🛠️ Fixes & Improvements
+
+* Fixed Circle to search disappearing after google app update
+* Fixed play services crash in some cases
+* Fixed vibration effect on lockscreen shortcuts
+* Updated Bluetooth battery level indicators
+* Fixed an extensive drain caused by integrity spoofs
+* Updated qcom components from latest tag
